@@ -1,0 +1,7 @@
+Three Observations Made from the analysis
+
+1. The tumor volume at infubnol was one of the largest, and had the only outlier of the dataset
+
+2. The tumor volume goes down as time passes by when specifically using the Capomulin drug, showing that it is an effective drug
+
+3. The heavier the weight the larger the tumor is likely to be, the scatterplot showed a positive trending correlation with that
